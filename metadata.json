@@ -1,0 +1,6 @@
+{
+  "name": "가설건축물 축조신고 접수 체크리스트",
+  "description": "대지 소유, 신고 종류, 신청인, 건축주 유형별 가설건축물 축조·연장신고 구비서류 확인 및 미비서류 보완요구 안내문 자동 생성 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
